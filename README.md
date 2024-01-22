@@ -3,7 +3,7 @@
 Machine Learning (ML) is a subset of artificial intelligence (AI) focused on building systems that learn from and make decisions based on data. It involves algorithms that improve automatically through experience and by the use of data. These algorithms find patterns in data and make predictions or decisions without being explicitly programmed to perform the task.
 
 # Types of Machine Learning
- ![Machine learning types](images/example.png)
+ ![Machine learning types](Capture.PNG)
  
 # Audio Data Classification Assignment
 
